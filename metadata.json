@@ -1,0 +1,6 @@
+{
+  "name": "ATE – Autonomous Task Earning Engine",
+  "description": "Global autonomous task earning engine with automated discovery, policy validation, AI execution, and verified financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
